@@ -4,7 +4,7 @@ title: "imake-bhm"
 description: "iMake Innovation Center's Appreciation for Black History Month"
 logo: 'assets/images/branding.png'
 favicon: 'assets/images/branding.png'
-# baseurl: /imake-bhm
+baseurl: /home
 url: "https://imake-innovation-center.github.io/imake-bhm/"
 # google_analytics: 'UA-xxxxxxxx-1'
 # disqus: 'demowebsite'
