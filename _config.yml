@@ -17,8 +17,7 @@ authors:
     name: Jason Kennedy
     display_name: Jason Kennedy
     avatar: /assets/images/jason_kennedy.jpg
-
-
+    
 # Plugins
 plugins:
   - jekyll-paginate
