@@ -8,7 +8,6 @@ baseurl: /imake-bhm
 url: "https://imake-innovation-center.github.io/imake-bhm/"
 # google_analytics: 'UA-xxxxxxxx-1'
 # disqus: 'demowebsite'
-?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
