@@ -9,7 +9,7 @@ comments: false
 toc: true
 ---
 <!-- English Section -->
-# Malcolm X
+# Katherine Johnson
 
 ## In English: 
 In May 1961, America successfully completed the first human spaceflight. In 1962, NASA embarked on an orbital flight that change the game in the competition between the United State and Soviet Union space race. In 1969, America achieved the feat of landing the first humans on the  moon.  None  of  these  accomplishments  would  have  been  possible,  had  it  not  been  for  an  amazing black woman who made waves and broke records, creating opportunities for America’s many firsts in space. Creola Katherine Johnson (née Coleman) was born in White Sulphur Springs, West  Virginia  on  August  26,  1918.  She  immediately  gravitated  towards  numbers  with  the  encouragement  of  her  parents,  particularly  her  mother.  She  skipped  many  grades  and  was  eventually attending high school at the age of 13. She earned her degree from West Virginia State College  and  went  on  to teach  at  a  black  public  school  until  the  opportunity  came  for  her  to  be  selected as one of the first black students at West Virginia University. Though she didn’t finish, she returned to teaching before making the decision to pursue a position at the National Advisory Committee for Aeronautics (NACA), which later changed their name to NASA.  
