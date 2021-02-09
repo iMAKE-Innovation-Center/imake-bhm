@@ -27,6 +27,11 @@ authors:
     name: Jeffery Dixon
     display_name: Jeffery Dixon
     avatar: /assets/images/jeffery_dixon.jpg
+
+  nkeiru:
+    name: Nkeiru Nkwocha
+    display_name: Nkeiru Nkwocha
+    avatar: /assets/images/nkeiru_nkwocha.png
     
 # Plugins
 plugins:
