@@ -32,6 +32,11 @@ authors:
     name: Nkeiru Nkwocha
     display_name: Nkeiru Nkwocha
     avatar: /assets/images/nkeiru_nkwocha.png
+
+  celeste:
+    name: Celeste Alcantar
+    display_name: Celeste Alcantar
+    avatar: /assets/images/celeste_alcantar.png
     
 # Plugins
 plugins:
