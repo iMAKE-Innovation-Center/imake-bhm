@@ -2,7 +2,7 @@
 layout: post
 title:  "Katherine Johnson"
 author: nkeiru
-categories: [ male ]
+categories: [ female ]
 image: /assets/images/katherine_johnson.jpg
 comments: false
 
