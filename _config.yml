@@ -37,6 +37,11 @@ authors:
     name: Celeste Alcantar
     display_name: Celeste Alcantar
     avatar: /assets/images/celeste_alcantar.png
+
+  patrick:
+    name: Patrick Saade
+    display_name: Patrick Saade
+    avatar: /assets/images/patrick_saade.png
     
 # Plugins
 plugins:
