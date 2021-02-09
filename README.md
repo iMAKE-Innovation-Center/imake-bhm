@@ -1,4 +1,4 @@
-# This is a to-do list for the static site. |
+# This is a to-do list for the static site
 1. Add information to about page
 2. Integrate a better table of contents
 3. Continue adding all student employee posts
