@@ -22,6 +22,11 @@ authors:
     name: Anna Timarong
     display_name: Anna Timarong
     avatar: /assets/images/anna_timarong.png
+
+  jeffery:
+    name: Jeffery Dixon
+    display_name: Jeffery Dixon
+    avatar /assets/images/jeffery_dixon.jpg
     
 # Plugins
 plugins:
