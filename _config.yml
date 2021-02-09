@@ -17,6 +17,11 @@ authors:
     name: Jason Kennedy
     display_name: Jason Kennedy
     avatar: /assets/images/jason_kennedy.jpg
+
+  anna:
+    name: Anna Timarong
+    display_name: Anna Timarong
+    avatar: /assets/images/anna_timarong.png
     
 # Plugins
 plugins:
