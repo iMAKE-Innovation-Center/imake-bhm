@@ -26,7 +26,7 @@ authors:
   jeffery:
     name: Jeffery Dixon
     display_name: Jeffery Dixon
-    avatar /assets/images/jeffery_dixon.jpg
+    avatar: /assets/images/jeffery_dixon.jpg
     
 # Plugins
 plugins:
