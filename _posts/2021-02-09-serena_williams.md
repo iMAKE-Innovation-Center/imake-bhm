@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kamala Devi Harris"
+title:  "Serena Williams"
 author: melissa_r
 categories: [ female ]
 image: /assets/images/serena_williams.jpg
