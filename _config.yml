@@ -42,6 +42,21 @@ authors:
     name: Patrick Saade
     display_name: Patrick Saade
     avatar: /assets/images/patrick_saade.png
+
+  shukerrah:
+    name: Shukerrah Palmer
+    display_name: Shukerrah Palmer
+    avatar: /assets/images/shukerrah_palmer.png
+
+  melissa_v:
+    name: Melissa Valenzuela
+    display_name: Melissa Valenzuela
+    avatar: /assets/images/melissa_valenzuela.png
+
+  melissa_r:
+    name: Melissa Ruano
+    display_name: Melissa Ruano
+    avatar: /assets/images/melissa_ruano.png
     
 # Plugins
 plugins:
