@@ -9,7 +9,7 @@ comments: false
 toc: true
 ---
 <!-- English Section -->
-# Ruby Neil Bridges
+# Elijah McCoy
 
 ## In English: 
 On the day May 2, 1844 a man who will change the world was born in Ontario, Canada. His name was Elijah McCoy and his situation was better than most black members at the time. He was born free due to his parents, who were fugitive slaves, escaping to Ontario, Canada. He became well educated because of this opportunity bestowed upon by his parents. As a result he became a certified mechanical engineer in Scotland while on apprenticeship there at age 15.
