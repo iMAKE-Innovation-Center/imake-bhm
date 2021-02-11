@@ -57,6 +57,11 @@ authors:
     name: Melissa Ruano
     display_name: Melissa Ruano
     avatar: /assets/images/melissa_ruano.png
+
+  jerry:
+    name: Jerry Serrano
+    display_name: Jerry Serrano
+    avatar: /assets/images/jerry_serrano.png
     
 # Plugins
 plugins:
