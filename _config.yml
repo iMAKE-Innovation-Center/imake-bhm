@@ -72,7 +72,10 @@ plugins:
   - jekyll-archives
   - jekyll-figure
   - jekyll-redirect-from
-    
+
+whitelist:
+  - jekyll-redirect-from
+
 # Archives
 jekyll-archives:
   enabled:
