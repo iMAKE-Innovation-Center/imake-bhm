@@ -5,6 +5,7 @@ author: nkeiru
 categories: [ female ]
 image: /assets/images/katherine_johnson.jpg
 comments: false
+date: 2014-12-31 00:30:00
 
 toc: true
 ---
