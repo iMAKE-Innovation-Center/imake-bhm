@@ -30,3 +30,7 @@ Tras 33 años en el laboratorio Langley de la NASA, Johnson se jubiló a los 68 
 
 ### Referencias:
 Gillard, Eric. “NASA Langley's Katherine Johnson Computational Research Facility Opens.”NASA, NASA, 23 Sept. 2017, www.nasa.gov/feature/langley/nasa-langley-s-katherine-johnson-computational-research-facility-officially-opens. Loff, Sarah. “Katherine Johnson Biography.”NASA, NASA, 22 Nov. 2016, www.nasa.gov/content/katherine-johnson-biography. Stauss, Joanna, and How It Works. “Katherine Johnson: Pioneering NASA Mathematician.” Space.com, Space, 27 Feb. 2020, www.space.com/katherine-johnson.html. 
+
+# Black History Month Image
+
+![](/imake-bhm/assets/images/bhm-nk.jpg)
