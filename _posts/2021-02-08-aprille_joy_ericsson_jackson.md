@@ -31,3 +31,8 @@ A través de todos los desafíos por los que pasó para llegar a donde está hoy
 
 ### Referencias:
 https://marisamcdowell.wordpress.com/cultural-research/biography-aprille-ericsson-jacksons-story/
+
+
+# Black History Month Image
+
+![](/imake-bhm/assets/images/bhm-anna.jpg)

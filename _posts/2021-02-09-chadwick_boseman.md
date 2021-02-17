@@ -44,3 +44,7 @@ Jurgensen, John. “Chadwick Boseman's Career Amplified Black Culture, History.�
 Nielsen, Euell A. Chadwick Aaron Boseman (1976-2020), 23 Dec. 2020,www.blackpast.org/african-american-history/chadwick-aaron-boseman-1976-2020/.
 
 Paulette, 02/10/2020 by, et al. “Remembering Chadwick Boseman – A Superhero.” BlackHistory Month 2021, 5 Sept. 2020,www.blackhistorymonth.org.uk/article/section/obituaries-news-views/remembering-chadwick-boseman-a-superhero/.
+
+# Black History Month Image
+
+![](/imake-bhm/assets/images/bhm-shukerrah.jpg)

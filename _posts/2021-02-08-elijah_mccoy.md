@@ -42,3 +42,7 @@ https://en.wikipedia.org/wiki/Elijah_McCoy
 https://www.biography.com/inventor/elijah-mccoy
 https://blackinventor.com/elijah-mccoy/
 https://www.thoughtco.com/elijah-mccoy-profile-1992158
+
+# Black History Month Image
+
+![](/imake-bhm/assets/images/bhm-patrick.png)

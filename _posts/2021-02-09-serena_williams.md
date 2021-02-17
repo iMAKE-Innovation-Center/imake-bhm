@@ -46,3 +46,7 @@ Lo que hace que la carrera de Williams, que abarca más de dos décadas, sea tan
 https://www.biography.com/athlete/serena-williams
 https://www.tiebreaktens.com/players/serena-williams-tie-break-tens/
 https://theundefeated.com/features/the-undefeated-44-most-influential-black-americans-in-history/#serena-williams
+
+# Black History Month Image
+
+![](/imake-bhm/assets/images/bhm-ruano.jpg)
