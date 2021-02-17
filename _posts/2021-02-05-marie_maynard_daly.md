@@ -35,3 +35,7 @@ Me alegro de haber conocido a una científica increíble y un modelo a seguir co
 
 ### Referencias:
 Biografías históricas "Marie Maynard Daly". Instituto de Historia de la Ciencia. (9 de noviembre de 2018). https://www.sciencehistory.org/historical-profile/marie-maynard-dalyCorless, Victoria "Pioneros de la ciencia: Marie Daly". Noticias de la ciencia avanzada. (27 de agosto de 2020). https://www.advancedsciencenews.com/pioneers-in-science-marie-daly/
+
+# Black History Month Image
+
+![](/imake-bhm/assets/images/bhm-jason.jpg)
