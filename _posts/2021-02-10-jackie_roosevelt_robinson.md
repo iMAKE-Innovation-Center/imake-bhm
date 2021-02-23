@@ -54,3 +54,7 @@ Hay tantas cosas que Jackie Robinson logró, pero lo que admiré fue que no impo
 
 ### Referencias:
 Jackie Robinson. (2021, 07 de enero). Consultado el 10 de febrero de 2021, de https://www.biography.com/athlete/jackie-robinson
+
+# Black History Month Image
+
+![](/imake-bhm/assets/images/bhm-jerry.jpg)

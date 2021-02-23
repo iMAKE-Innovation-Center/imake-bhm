@@ -38,3 +38,7 @@ Como han visto muchos otros, Kamala Harris es una mujer increíble y un modelo p
 ### Referencias:
 Kamala Harris. (2021, January 20). Retrieved February 10, 2021, from https://www.britannica.com/biography/
 Kamala-HarrisKim, C., & Stanton, Z. (2020, August 16). 55 things you need to know About Kamala Harris. Retrieved February 10, 2021, from https://www.politico.com/news/magazine/2020/08/11/kamala-harris-vp-background-bio-biden-running-mate-2020-393885
+
+# Black History Month Image
+
+![](/imake-bhm/assets/images/bhm-melissa_v.png)
