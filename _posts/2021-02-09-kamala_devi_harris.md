@@ -41,4 +41,4 @@ Kamala-HarrisKim, C., & Stanton, Z. (2020, August 16). 55 things you need to kno
 
 # Black History Month Image
 
-![](/imake-bhm/assets/images/bhm-melissa_v.png)
+![](/imake-bhm/assets/images/bhm-melissa_v.jpg)
