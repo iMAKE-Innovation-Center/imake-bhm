@@ -68,6 +68,22 @@ authors:
     display_name: Joesph Murray
     avatar: /assets/images/joseph_murray.png
 
+  tricia:
+    name: Tricia Caldwell
+    display_name: Tricia Caldwell
+    avatar: /assets/images/tricia_caldwell.png
+
+  abram:
+    name: Abraham Cifuentes
+    display_name: Abraham Cifuentes
+    avatar: /assets/images/abraham_cifuentes.jpg
+
+  abigail:
+    name: Abigail De Hay
+    display_name: Abigail De Hay
+    avatar: /assets/images/abigail_de_hay.png
+
+
 # Plugins
 plugins:
   - jekyll-paginate
