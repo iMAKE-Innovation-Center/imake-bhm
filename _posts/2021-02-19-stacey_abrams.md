@@ -15,7 +15,6 @@ toc: true
 
 
 ### References:
-https://aaregistry.org/story/dwayne-mcduffie-super-hero-writier/https://aalbc.com/authors/author.php?author_name=Dwayne+McDuffie
 
 <!-- Spanish Section -->
 ## En Espanol:
