@@ -78,6 +78,11 @@ authors:
     display_name: Abigail De Hay
     avatar: /assets/images/abigail_de_hay.png
 
+  donnell:
+    name: Donnell Layne
+    display_name: Donnell Layne
+    avatar: /assets/images/donnell_layne.jpeg
+
 
 # Plugins
 plugins:
