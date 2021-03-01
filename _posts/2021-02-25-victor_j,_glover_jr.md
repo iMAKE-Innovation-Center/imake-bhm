@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Glover Jr."
+title:  "Victor J. Glover Jr."
 author: donnell
 categories: [ male ]
 image: /assets/images/glover_jr.png
@@ -9,7 +9,7 @@ comments: false
 toc: true
 ---
 <!-- English Section -->
-# Glover Jr.
+# Victor J. Glover Jr.
 
 ## In English:
 Born in Pomona, California on born April 30, 1976, Victor J. Glover Jr. is a California native and holds a Bachelor of Science in General Engineering, a Master of Science in Flight Test Engineering, a Master of Science in Systems Engineering and a Master of Military Operational Art and Science. 
